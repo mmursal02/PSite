@@ -1,0 +1,205 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+h1 {
+    color:#152D35;
+    font-family: 'Caveat', cursive;
+    font-size: 5.625em;
+    margin: 50px auto 0 auto;
+    
+    
+    
+}
+
+h2 {
+    color:#152D35;
+    font-family: 'Comfortaa', cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+   
+
+
+}
+
+h3{
+    color: #345B63;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+a {
+    text-decoration: none;
+    color: #7187ab;
+    
+}
+
+a:hover {
+    color: #D4ECDD;
+    
+}
+
+hr {
+    border: 0.3rem dotted #7187ab;
+    width: 5%;
+    border-bottom: 0; 
+    margin: 2rem auto;
+    
+    
+  
+    
+
+}
+
+
+    
+.top-container {
+    background-color:#D4ECDD;
+    position: relative;
+    padding-top: 100px; 
+    
+    
+}
+
+.middle-container {
+    margin: 100px 0;
+
+}
+
+
+.bottom-container {
+    background-color: #112031;
+    color: #345B63;
+    height: 6rem;
+    padding-top: 2rem;
+    margin-bottom: 0;
+
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;   
+    
+}
+
+.mountain-pic {
+    margin: auto;
+    width: 40%;
+}
+
+.book-pic  {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;    
+
+}
+
+.skills-icon { 
+    float: left;
+    height: 25%;
+    width: 25%;
+    margin-right: 30px;  
+    
+    
+}
+
+.display-pic {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+
+.skill-row-1 {
+   margin: 50px auto;
+    width: 50%;
+    text-align: left;
+    
+    
+}
+
+.skill-row-2 {
+    margin: 50px auto;
+     width: 50%;
+     text-align: left;
+     
+     
+ }
+
+p {
+    line-height: 2;
+    margin: 4rem;
+    
+}
+
+.copyright {
+    color: #345B63;
+    margin: 0;
+    padding-top: 0.8rem;
+    font-size: 0.7rem;
+}
+
+.middle-container {
+    margin: 100px 0;
+
+}
+
+.contact-me {
+    margin: auto;
+    width: 50%;
+}
+
+
+.btn {
+    background: #D4ECDD;
+    background-image: -webkit-linear-gradient(top, #D4ECDD, #A5B9AC);
+    background-image: -moz-linear-gradient(top, #D4ECDD, #A5B9AC);
+    background-image: -ms-linear-gradient(top, #D4ECDD, #A5B9AC);
+    background-image: -o-linear-gradient(top, #D4ECDD, #A5B9AC);
+    background-image: -webkit-gradient(to bottom, #D4ECDD, #A5B9AC);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 200;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    border: solid #0A1F3E 1px;
+    background: #394044;
+    background-image: -webkit-linear-gradient(top, #394044, #1B4676);
+    background-image: -moz-linear-gradient(top, #394044, #1B4676);
+    background-image: -ms-linear-gradient(top, #394044, #1B4676);
+    background-image: -o-linear-gradient(top, #394044, #1B4676);
+    background-image: -webkit-gradient(to bottom, #394044, #1B4676);
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+    text-decoration: none;
+ }
+
+ .skills h3 {
+     margin-bottom: 0.8rem;
+ }
+
+ .skills p {
+    margin: 0px;
+}
+
